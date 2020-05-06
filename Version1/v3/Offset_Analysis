@@ -1,0 +1,505 @@
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 0 
+    *OFFSET_VAL = -9.7528E-02   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 1 
+    *OFFSET_VAL = -9.9805E-02   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 2 
+    *OFFSET_VAL = -1.5509E-03   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 3 
+    *OFFSET_VAL = -9.2974E-02   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 4 
+    *OFFSET_VAL = -9.6751E-02   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 5 
+    *OFFSET_VAL = -1.0628E-01   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 6 
+    *OFFSET_VAL = -1.0156E-01   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 7 
+    *OFFSET_VAL = -9.8321E-02   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 8 
+    *OFFSET_VAL = -1.0666E-01   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 9 
+    *OFFSET_VAL = -9.5333E-02   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 10 
+    *OFFSET_VAL = -1.0049E-01   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 11 
+    *OFFSET_VAL = -4.1032E-03   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 12 
+    *OFFSET_VAL = -9.5445E-02   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 13 
+    *OFFSET_VAL = -9.9275E-02   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 14 
+    *OFFSET_VAL = -1.0136E-01   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 15 
+    *OFFSET_VAL = -9.5663E-02   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 16 
+    *OFFSET_VAL = -9.4828E-02   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 17 
+    *OFFSET_VAL = -1.5284E-02   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 18 
+    *OFFSET_VAL = -1.0309E-01   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 19 
+    *OFFSET_VAL =  2.2199E-03   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 20 
+    *OFFSET_VAL = -1.0565E-01   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 21 
+    *OFFSET_VAL = -9.3593E-02   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 22 
+    *OFFSET_VAL = -4.0239E-03   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 23 
+    *OFFSET_VAL =  3.1949E-03   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 24 
+    *OFFSET_VAL = -7.2309E-04   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 25 
+    *OFFSET_VAL = -1.4186E-02   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 26 
+    *OFFSET_VAL = -9.6040E-02   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 27 
+    *OFFSET_VAL = -1.0087E-01   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 28 
+    *OFFSET_VAL = -1.0726E-01   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 29 
+    *OFFSET_VAL = -9.3042E-02   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 30 
+    *OFFSET_VAL = -4.8823E-03   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 31 
+    *OFFSET_VAL = -9.5302E-02   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 32 
+    *OFFSET_VAL = -1.0448E-01   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 33 
+    *OFFSET_VAL = -3.6986E-03   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 34 
+    *OFFSET_VAL = -1.3861E-03   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 35 
+    *OFFSET_VAL = -9.6090E-02   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 36 
+    *OFFSET_VAL = -9.5777E-02   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 37 
+    *OFFSET_VAL = -9.7757E-02   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 38 
+    *OFFSET_VAL = -9.6850E-02   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 39 
+    *OFFSET_VAL = -2.4695E-03   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 40 
+    *OFFSET_VAL =  2.3456E-03   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 41 
+    *OFFSET_VAL = -9.8372E-02   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 42 
+    *OFFSET_VAL = -1.6872E-02   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 43 
+    *OFFSET_VAL = -9.4849E-02   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 44 
+    *OFFSET_VAL = -1.9175E-02   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 45 
+    *OFFSET_VAL = -1.0015E-01   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 46 
+    *OFFSET_VAL = -1.5186E-03   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 47 
+    *OFFSET_VAL = -1.2136E-01   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 48 
+    *OFFSET_VAL = -1.8346E-02   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 49 
+    *OFFSET_VAL = -1.0011E-01   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 50 
+    *OFFSET_VAL = -1.0913E-02   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 51 
+    *OFFSET_VAL = -9.8442E-02   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 52 
+    *OFFSET_VAL = -9.3220E-02   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 53 
+    *OFFSET_VAL = -9.8107E-02   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 54 
+    *OFFSET_VAL =  2.8708E-03   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 55 
+    *OFFSET_VAL = -9.6996E-02   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 56 
+    *OFFSET_VAL =  3.8160E-04   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 57 
+    *OFFSET_VAL = -1.0002E-01   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 58 
+    *OFFSET_VAL = -9.6661E-02   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 59 
+    *OFFSET_VAL =  2.2822E-04   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 60 
+    *OFFSET_VAL = -1.0897E-03   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 61 
+    *OFFSET_VAL = -9.1953E-02   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 62 
+    *OFFSET_VAL = -9.3388E-03   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 63 
+    *OFFSET_VAL = -1.0167E-01   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 64 
+    *OFFSET_VAL = -1.0059E-01   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 65 
+    *OFFSET_VAL = -9.7717E-02   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 66 
+    *OFFSET_VAL = -9.4140E-02   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 67 
+    *OFFSET_VAL = -1.9131E-02   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 68 
+    *OFFSET_VAL = -9.6647E-02   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 69 
+    *OFFSET_VAL = -9.8261E-02   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 70 
+    *OFFSET_VAL = -3.2787E-03   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 71 
+    *OFFSET_VAL = -1.0014E-01   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 72 
+    *OFFSET_VAL = -9.7995E-02   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 73 
+    *OFFSET_VAL = -8.8160E-02   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 74 
+    *OFFSET_VAL = -9.3772E-02   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 75 
+    *OFFSET_VAL = -1.0165E-01   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 76 
+    *OFFSET_VAL = -9.9181E-02   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 77 
+    *OFFSET_VAL = -9.2546E-02   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 78 
+    *OFFSET_VAL = -1.0024E-01   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 79 
+    *OFFSET_VAL = -9.7593E-02   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 80 
+    *OFFSET_VAL = -9.8347E-02   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 81 
+    *OFFSET_VAL = -6.0470E-03   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 82 
+    *OFFSET_VAL = -9.4218E-02   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 83 
+    *OFFSET_VAL = -1.7665E-03   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 84 
+    *OFFSET_VAL =  7.7075E-04   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 85 
+    *OFFSET_VAL = -1.2467E-01   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 86 
+    *OFFSET_VAL = -9.9982E-02   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 87 
+    *OFFSET_VAL = -4.1568E-03   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 88 
+    *OFFSET_VAL = -1.8760E-03   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 89 
+    *OFFSET_VAL = -9.6460E-02   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 90 
+    *OFFSET_VAL = -7.4906E-03   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 91 
+    *OFFSET_VAL =  1.8995E-03   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 92 
+    *OFFSET_VAL = -1.3951E-02   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 93 
+    *OFFSET_VAL = -9.8794E-02   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 94 
+    *OFFSET_VAL = -9.3110E-02   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 95 
+    *OFFSET_VAL = -9.9122E-02   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 96 
+    *OFFSET_VAL = -9.7329E-02   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 97 
+    *OFFSET_VAL = -8.7906E-02   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 98 
+    *OFFSET_VAL = -1.4025E-02   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 99 
+    *OFFSET_VAL = -1.2918E-03   
+TITLE *for typical nmos and typical pmos
+EXTRACT for TRANSIENT ANALYSIS                
+  TEMPERATURE =  2.7000E+01 Celsius
+  ICARLO = 100 
+    *OFFSET_VAL = -9.9070E-02   
