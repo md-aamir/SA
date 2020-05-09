@@ -50,7 +50,7 @@ CC7 out gnd 5f
 *.PININFO Vdd:I Vin:I gnd:I Vout:O
 XM7 Vout Vin gnd gnd nlvtlp w=0.135 l=0.06 nfing=1 sense=0 ngcon=1 m=1 
 + accurateFlow=0
-XM6 Vout Vin Vdd Vdd plvtlp w=0.135 l=0.06 nfing=1 sense=0 ngcon=1 m=1 
+XM6 Vout Vin Vdd Vdd plvtlp w=0.27 l=0.06 nfing=1 sense=0 ngcon=1 m=1 
 + accurateFlow=0
 .ENDS
 
@@ -62,9 +62,9 @@ XM6 Vout Vin Vdd Vdd plvtlp w=0.135 l=0.06 nfing=1 sense=0 ngcon=1 m=1
 *High width to control reult1
 .SUBCKT NOT Vdd Vin Vout gnd
 *.PININFO Vdd:I Vin:I gnd:I Vout:O
-XM7 Vout Vin gnd gnd nlvtlp w=0.41 l=0.06 nfing=1 sense=0 ngcon=1 m=1 
+XM7 Vout Vin gnd gnd nlvtlp w=0.27 l=0.06 nfing=1 sense=0 ngcon=1 m=1 
 + accurateFlow=0
-XM6 Vout Vin Vdd Vdd plvtlp w=0.41 l=0.06 nfing=1 sense=0 ngcon=1 m=1 
+XM6 Vout Vin Vdd Vdd plvtlp w=0.54 l=0.06 nfing=1 sense=0 ngcon=1 m=1 
 + accurateFlow=0
 .ENDS
 ************************************************************************

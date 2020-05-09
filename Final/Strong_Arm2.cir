@@ -33,10 +33,10 @@ vPWL BL gnd PWL file="sample/sample.txt"
 
 *EXTRACTION
 
-.EXTRACT LABEL=Offset_val3 FILE = Offset_Analysis3  XYCOND(w(Offset), ((v(Result)<0.3) && (v(check)<0.3)),START,END)
+.EXTRACT LABEL=Offset_val1 FILE = Offset_Analysis1  XYCOND(w(Offset), ((v(Result)<0.3) && (v(check)<0.3)),START,END)
 .EXTRACT LABEL=Offset_val2 FILE = Offset_Analysis2  XYCOND(w(Offset), ((v(Result)>1.0) && (v(check)>1.0)),START,END)
 
-.EXTRACT LABEL=Offset_val1 FILE = Offset_Analysis1  XYCOND(w(Offset), ((v(OutB)<0.40)),START,END)
+*.EXTRACT LABEL=Offset_val3 FILE = Offset_Analysis3  XYCOND(w(Offset), ((v(OutB)<0.40)),START,END)
 
 
 .MC 100 DATAFLOW=0 ALL
